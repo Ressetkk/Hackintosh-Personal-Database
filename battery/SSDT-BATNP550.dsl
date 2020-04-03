@@ -36,7 +36,7 @@ DefinitionBlock ("","SSDT", 2, "ress", "BATNP550", 0)
             Offset (0xA0),
             B1R0,8,B1R1,8,B1R2,8,B1R3,8, //B1RR
             B1V0,8,B1V1,8,B1V2,8,B1V3,8, //B1PV
-            Offset (0xAF),
+            Offset (0xB0),
             B1A0, 8, B1A1,8,B1A2,8,B1A3,8, //B1AF
             B1L0,8,B1L1,8,B1L2,8,B1L3,8, //B1VL
             Offset (0xD0),
